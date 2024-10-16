@@ -7,7 +7,7 @@ sections:
       text: Om Byggkollektivet
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Snickare i Järna
     text: "Byggkollektivet är ett komplett byggföretag i Järna som drivs med en kollektiv grundtanke. Vi tar oss ann byggprojekt mellan Gnesta, Trosa, Södertälje och södra Stockholm. Vi utför en mängd arbeten bland annat nyproduktion, renoveringar, dekor och finsnickerier, byggnadsvård samt tillverkning av bastuhus och bastuflottar. Med en bred kunskapsbank och intresse för byggandet skapas en trivsam miljö för både kund och medarbetare.\n\nByggkollektivet är utbildade för användning av byggnadsställning, samt\_även certifierade för så kallade Heta arbeten. Företaget innehar erforderliga entreprenad och trygghetsförsäkringar, god ekonomi samt F-Skattsedel.\n"
     actions:
       - label: Get started
