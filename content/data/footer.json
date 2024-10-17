@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Byggkollektivet i Stockholm AB\n\nMölnbovägen 4A\n\n153 32 Järna \n\nSverige\n",
+    "text": "Mölnbovägen 4A\n\n153 32 Järna \n\nSverige\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,18 +61,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
@@ -80,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto: info@byggkollektivet.se",
             "icon": "mail",
             "type": "Social"
         }
@@ -103,7 +91,8 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "© Byggkollektivet i Stockholm AB\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "Byggkollektivet i Stockholm AB"
 }
